@@ -49,4 +49,5 @@ These projects focus on data cleaning, data transformation, dashboard developmen
 
 ## Author
 
-Kodirichi Idah
+Kodirichi Okoche (Idah)
+
